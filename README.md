@@ -18,9 +18,3 @@ Backend      Spring Boot · Flask
 Database     MySQL
 ML           Scikit-learn · XGBoost
 Tools        Git · GitHub · Maven · Selenium · TestNG · VS Code
-
-Beyond code
-
-300+ problems solved on LeetCode · NPTEL certified in Java Programming & Software Testing (IIT/IISc) · Active volleyball player and team leader
-
-LinkedIn · Email
