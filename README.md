@@ -12,9 +12,7 @@ What I've built
 
 Stack
 
-Languages    Java (Primary) · Python (Basic)
+Languages    Java · Python (Basic)
 Frontend     HTML · CSS · JavaScript
-Backend      Spring Boot · Flask
 Database     MySQL
-ML           Scikit-learn · XGBoost
-Tools        Git · GitHub · Maven · Selenium · TestNG · VS Code
+Tools        Git · GitHub · VS Code
