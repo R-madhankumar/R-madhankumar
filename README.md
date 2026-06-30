@@ -1,6 +1,6 @@
 Madhan Kumar R
 
-Final year B.Tech IT student building full-stack apps with Java and the Spring ecosystem. Currently deep in Data Structures & Algorithms, chasing a software development internship.
+Final year B.Tech IT student building full-stack apps with Java. Currently deep in Data Structures & Algorithms, chasing a software development internship.
 
 What I've built
 
